@@ -1,4 +1,4 @@
-# Place data (Unfinished)
+# Place data (WIP)
 
 A Dart/Flutter  application which allows the user to take pictures and store geolocation data of the place in which the picture was taken. 
 
