@@ -1,18 +1,16 @@
 # Place data (Unfinished)
 
-An application which allows the user to take pictures and store geolocation data of the place in which the picture was taken. 
-The location data can be viewed on the live map provided by Google Maps API
+A Dart/Flutter  application which allows the user to take pictures and store geolocation data of the place in which the picture was taken. 
 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+-Uses local storage for photos taken using the application
+-Uses the device camera to snap photos
+-Uses GoogleMaps API for displaying the location on the live map
+-Acesses GoogleMaps for interactive mapping and marker pinning
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Description
+The application is built to demonstrate the usage of native device features ,such as Camera and GPS, as well as using GoogleMaps API and storing the data in a SQLite database. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
